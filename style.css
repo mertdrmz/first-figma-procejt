@@ -1,0 +1,577 @@
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  position: relative;
+}
+.navbar {
+  padding: 50px;
+}
+.collapse li{
+  padding-left: 15px;
+}
+.navbar li {
+  padding-right: 50px;
+}
+.p-3 {
+  background: linear-gradient(to right, #468ef9 -12.5%, #0c66ee 107.5%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 30px;
+  text-align: left;
+}
+.fastest {
+  background: linear-gradient(#468ef9 -12.5%, #0c66ee 107.5%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.row.star {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+  font-size: 18px;
+}
+
+.circle-1 {
+  position: absolute;
+
+  top: 350px;
+  left: 1150px;
+  gap: 0px;
+  opacity: 0px;
+}
+.circle-2 {
+  position: absolute;
+  top: 50px;
+  left: 700px;
+  gap: 0px;
+  opacity: 0px;
+}
+.big-world {
+  position: relative;
+}
+.the-world {
+  font-size: 68px;
+  font-weight: 700;
+  line-height: 82px;
+  text-align: left;
+}
+.row p {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+  text-align: left;
+}
+
+.row.btn-1 {
+  width: Fixed (180px) px;
+  height: Fixed (72px) px;
+  top: 748px;
+  left: 180px;
+  padding: 10px 0px 0px 0px;
+  gap: 10px;
+  border-radius: 40px 0px 0px 0px;
+  opacity: 0px;
+}
+
+.the-world {
+  position: relative;
+}
+
+.star-1 {
+  position: absolute;
+  top: 50px;
+  left: 450px;
+  gap: 0px;
+  opacity: 0px;
+}
+.btn-group-head {
+  position: relative;
+}
+.circle-3 {
+  position: absolute;
+
+  top: 450px;
+  left: 1px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.trending {
+  width: 190px;
+  height: 30px;
+  top: 1075px;
+  left: 1293px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: serif;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 30px;
+  text-align: left;
+}
+.more {
+  width: 250px;
+  height: 30px;
+  top: 1075px;
+
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 30px;
+  text-align: right;
+  display: grid;
+  text-decoration: none;
+}
+tbody .plus-coin {
+  color: green;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 27px;
+  text-align: left;
+}
+
+.trending-group {
+  border-right: 1px solid #eaeaea;
+}
+
+tbody .minus-coin {
+  color: red;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 27px;
+  text-align: left;
+}
+
+.money-box {
+  width: 336px !important;
+  height: 80px;
+  top: 1885px;
+  left: 233px;
+}
+
+.moneybox {
+  position: relative;
+  transform: rotate(10.36deg);
+}
+
+.circle-4 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 600px;
+  left: 1250px;
+  gap: 0px;
+  opacity: 0px;
+}
+.circle-5 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 700px;
+  left: 700px;
+  gap: 0px;
+  opacity: 0px;
+}
+.circle-6 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 850px;
+  left: 800px;
+  gap: 0px;
+  opacity: 0px;
+}
+.exchange input {
+  border-radius: 50px;
+  border: 1px solid blue;
+  padding: 10px;
+}
+.exchange select {
+  border-radius: 50px;
+  padding: 10px;
+  border: 1px solid blue;
+}
+
+.companys-img {
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+.nefa {
+  background: linear-gradient(#468ef9 -12.5%, #0c66ee 107.5%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.card-gropu-1 {
+  width: 489px;
+  height: 46px;
+  top: 3174px;
+  left: 1156px;
+  gap: 0px;
+  opacity: 0px;
+
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 22.5px;
+  text-align: left;
+}
+.tools {
+  background: linear-gradient(#468ef9 -12.5%, #0c66ee 107.5%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.advanced-trading p {
+  font-size: 16px;
+}
+.advanced-trading h4 {
+  font-size: 18px;
+}
+.advanced-trading h1 {
+  font-size: 36px;
+}
+.Industry-leading p {
+  font-size: 16px;
+}
+.Industry-leading h4 {
+  font-size: 18px;
+}
+.Industry-leading h1 {
+  font-size: 36px;
+}
+.sign-up {
+  position: relative;
+}
+.sign-up svg {
+  position: absolute;
+  left: 350px;
+  top: 100px;
+}
+.fund {
+  position: relative;
+}
+.fund svg {
+  position: absolute;
+  left: 350px;
+  top: 100px;
+}
+.support-1 {
+  background: linear-gradient(136.91deg, #468ef9 -12.5%, #0c66ee 107.5%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 18px;
+
+  letter-spacing: 0.06em;
+  text-align: left;
+}
+
+.support {
+  font-size: 36px;
+
+  text-align: left;
+}
+.accordion {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: none;
+  text-align: end;
+  outline: none;
+  font-size: 18px;
+  transition: 0.4s;
+  width: 100%;
+  align-items: start;
+  text-align: start;
+  position: relative;
+}
+
+.panel {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+
+.accordion-menu .accordion svg {
+  position: absolute;
+  left: 550px;
+}
+.btn-btn .btn {
+  border: 1px solid #dddddd;
+}
+
+.about-links a {
+  text-decoration: none;
+  color: #666666;
+}
+footer a {
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: left;
+  color: rgba(102, 102, 102, 1);
+}
+footer li {
+  list-style-type: none;
+  padding-bottom: 20px;
+}
+.last-line {
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: left;
+  color: rgba(102, 102, 102, 1);
+}
+
+footer input {
+  padding: 10px 10px 10px 14px;
+  gap: 10px;
+  border-radius: 10px;
+  border: 1px solid rgba(170, 170, 170, 1);
+}
+footer button {
+  border: none;
+}
+
+.cripto-exchange .input-container input {
+  width: 336px;
+  height: 80px;
+  top: 1885px;
+  left: 233px;
+  gap: 0px;
+  border-radius: 22px;
+
+  border: 1px solid blue;
+  background: linear-gradient(136.91deg, #468ef9 -12.5%, #0c66ee 107.5%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+#money {
+  width: 336px;
+  height: 80px;
+  top: 1885px;
+  left: 233px;
+  gap: 0px;
+  border-radius: 22px;
+
+  border: 1px solid blue;
+  background: linear-gradient(136.91deg, #468ef9 -12.5%, #0c66ee 107.5%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.table {
+  border-collapse: collapse;
+}
+
+.cripto-exchange .input-group {
+ padding: 10px;
+border-radius: 1;
+border: 1px 
+
+}
+
+.cripto-exchange select {
+  padding: 8px; /* Seçici alanın kenar boşluğu */
+  font-size: 16px; /* Yazı boyutu */
+}
+
+/* Özel stil için */
+.cripto-exchange select option[value="usd"] {
+  background-image: url('usd-icon.png'); /* Resim dosyasının yolunu buraya girin */
+  background-size: 20px 20px; /* Resim boyutu */
+  background-repeat: no-repeat; /* Tekrar etmemesi için */
+  padding-left: 30px; /* Resimden sonra metin ile arasındaki boşluk */
+}
+
+.cripto-exchange select option[value="btc"] {
+  background-image: url('/usd.png'); /* Başka bir resim dosyasının yolunu buraya girin */
+  background-size: 20px 20px; /* Resim boyutu */
+  background-repeat: no-repeat; /* Tekrar etmemesi için */
+  padding-left: 30px; /* Resimden sonra metin ile arasındaki boşluk */
+}
+.USD{
+  background-image:url('/usd.png');
+  background-repeat:no-repeat;
+  padding-left:20px;
+}
+
+@media screen and (max-width: 480px) {
+  .big-world {
+    display: none;
+  }
+  header .row svg {
+    display: none;
+  }
+  header .sign-up-1 .p-3 {
+    text-align: center;
+    width: 100%;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 21px;
+  }
+  header .row h1 span {
+    white-space: nowrap;
+  }
+  header .sign-up-1 h1 {
+    text-align: center;
+    font-size: 34px;
+    font-weight: 700;
+    line-height: 42px;
+    letter-spacing: -0.01em;
+    margin-bottom: 50px;
+    margin-top: 50px;
+  }
+  header .sign-up-1 p{
+    text-align: center;
+    font-size: 34px;
+    font-weight: 700;
+    line-height: 42px;
+    letter-spacing: -0.01em;
+    margin-bottom: 50px;
+    margin-top: 50px;
+  }
+  .sign-up svg{
+    display: none;
+  }
+  header .fund {
+    text-align: center;
+    font-size: 34px;
+    font-weight: 700;
+    line-height: 42px;
+    letter-spacing: -0.01em;
+    margin-bottom: 50px;
+    margin-top: 50px;
+  }
+  .fund svg{
+    display: none;
+  }
+  section .card-group-1 div img{
+    margin-bottom: 50px;
+  }
+  header .sign-up-1 button {
+    width: 100%;
+    top: 381px;
+    left: 32px;
+    padding: 10px;
+    gap: 10px;
+    margin-bottom: 5px;
+  }
+  section .trending-group {
+    margin-top: 50px;
+  }
+  section .trending-group .table {
+    border-collapse: collapse;
+  }
+  .cripto-exchange .cripto-text {
+    text-align: center;
+    margin: auto;
+  }
+  .cripto-exchange .image-cripto {
+    width: 100%;
+    order: -1;
+  }
+  .cripto-exchange .cripto-text h2 {
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 36px;
+    text-align: center;
+    /* white-space: nowrap; */
+    width: 312px;
+    height: 72px;
+    top: 2240px;
+    
+  }
+  .cripto-exchange .cripto-text p{
+    width: 307px;
+    height: 72px;
+    top: 2332px;
+    
+    
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    
+  }
+  .cripto-exchange .cripto-text .input-container{width: 205px;
+    height: 70px;
+    top: 2434px;
+    
+    gap: 0px;
+    border-radius: 15px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    }
+    .cripto-exchange .cripto-text .input-container .form-select{width: Fixed (106px)px;
+      height: Fixed (70px)px;
+      top: 2434px;
+      left: 244px;
+      padding: 10px 0px 0px 0px;
+      gap: 8px;
+      border-radius: 15px 0px 0px 0px;
+      border: 1px 0px 0px 0px;
+      opacity: 0px;
+      }
+      .companys h3{padding-bottom: 25px;}
+      .companys p{width: Fixed (106px)px;
+        height: Fixed (70px)px;
+        top: 2434px;
+        left: 244px;
+        padding: 10px 0px 0px 0px;
+        gap: 8px;
+        border-radius: 15px 0px 0px 0px;
+        border: 1px 0px 0px 0px;
+        opacity: 0px;
+        }
+        .companys-img{width: Hug (173px)px;
+          height: Hug (330px)px;
+          top: 2934px;
+          left: 100px;
+          gap: 0px;
+          opacity: 0px;
+          display: flex;  
+          flex-direction: column;  
+          margin-top: 50px; 
+        }  
+        .card-group-1 .row{ text-align: center;
+          font-size: 34px;
+          font-weight: 700;
+          line-height: 42px;
+          letter-spacing: -0.01em;
+          margin-bottom: 50px;
+          margin-top: 50px;}
+        .card-text-1{text-align: start; display: block; justify-content: flex-start;}
+        .card-text-1 h2{width: 263px;
+          }
+          .advanced-trading {  
+            text-align: center;
+            justify-content: center;
+            align-items: center;
+            display: flex;
+          }
+          .advanced-trading .x-symbol {order: -1; width: 100%;}
+    
+           .advanced-trading .gs-btn{width: 100%;} 
+           footer .footer-row {display: flex;  
+            flex-direction: column; 
+            white-space: nowrap; }
+            .footer-row .by-cripto{margin-top: 50px;}
+            .footer-row .copyright { white-space: nowrap;}
+        }
+        .input-group-2{
+          width: 205px;
+        }
+        
